@@ -49,3 +49,6 @@ while a == 1:
         print("\t\n Sorry we are out of service for", new)
         print("\tThank You ", name, " we are happy to serve you any time")
     a = int(input("Press 1 to order again, Else press 0\n"))
+    
+    
+    print("Thank you")
